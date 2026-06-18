@@ -54,7 +54,7 @@ Pronto. A partir de agora toda vez que ligar o computador o sistema inicializar�
 
 ## 📐 Estrutura do Projeto
 
-Uma visão macro de como os arquivos estão organizados (opcional, mas altamente recomendado):
+Uma visão macro de como os arquivos estão organizados:
 
 ```C:
 ├── musicas_sinal/
