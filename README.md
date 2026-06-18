@@ -59,13 +59,13 @@ Uma visão macro de como os arquivos estão organizados:
 ```C:
 ├── musicas_sinal/
 │   ├── SinalEscolarTray.jar      # software java da solução
-│   ├── horários.txt              # arquivo com os horários em que o sinal deve tocar, formato hh:mm
+│   ├── horarios.txt              # arquivo com os horários em que o sinal deve tocar, formato hh:mm
 │   └── *.mp3                     # arquivos de música que são opção para o programa escolher aleatoriamente
 ```
 
 ---
 
-## 🤝 Dúvidas / Sugestões / Agradecimentos
+## 🤝 Críticas / Dúvidas / Sugestões / Agradecimentos
 
 prof. Paulo Henrique Rodrigues 
 paulohenriquerodrigues@outlook.com
