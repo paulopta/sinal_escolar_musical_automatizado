@@ -36,7 +36,9 @@ O que você precisa executar o software:
 4. **Adicione o programa para inicializar junto com o Windows:**
 
 a) Abra a pasta de Inicialização: Pressione as teclas Windows + R no seu teclado. Na janela "Executar" que aparecer, digite shell:startup e pressione Enter, essa ação irá abrir uma pasta "Inicializar", minimize-a.
-b) Crie um atalho do programa: Vá a pasta do programa (C:\musicas sinal) clique com o botão direito no arquivo SinalEscolarTray.jar, clique na opção "Criar Atalho". Caso essa opção não, clique em "Mostrar mais Opções" que ela aparecerá. Recorte (ctrl + x) o arquivo de atalho e cole (ctrl + v) na pasta "Inicializar" que você abriu no Passo A. Pronto. A partir de agora toda vez que ligar o computador o sistema inicializará automaticamente.
+
+b) Crie um atalho do programa: Vá a pasta do programa (C:\musicas sinal) clique com o botão direito no arquivo SinalEscolarTray.jar, clique na opção "Criar Atalho". Caso essa opção não, clique em "Mostrar mais Opções" que ela aparecerá. Recorte (ctrl + x) o arquivo de atalho e cole (ctrl + v) na pasta "Inicializar" que você abriu no Passo A. 
+Pronto. A partir de agora toda vez que ligar o computador o sistema inicializará automaticamente.
 
 
 5. **Acessando o software:**
@@ -65,8 +67,9 @@ Uma visão macro de como os arquivos estão organizados (opcional, mas altamente
 
 ## 🤝 Dúvidas / Sugestões / Agradecimentos
 
-prof. Paulo Henrique Rodrigues
+prof. Paulo Henrique Rodrigues 
 paulohenriquerodrigues@outlook.com
+
 ---
 
 ## 📄 Licença
